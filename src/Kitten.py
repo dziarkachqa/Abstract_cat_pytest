@@ -1,4 +1,4 @@
-from scr.AbstractCat import AbstractCat
+from src.AbstractCat import AbstractCat
 
 
 class Kitten(AbstractCat):
