@@ -1,5 +1,5 @@
 import pytest
-from src.Kitten import Kitten
+from src.Kitten import Kitten #class
 
 def test_kitten_meow(my_kitten):
     assert my_kitten.meow() == "meow..."
